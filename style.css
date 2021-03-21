@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;;
+}
+.submit-issue{
+    padding: 30px;
+    box-shadow: 5px 5px grey;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#bank-info{
+    display:none;
+}
+.balance{
+    background: orange;
+}
+.withdrow{
+    background: lightsalmon;
+}
+.deposit{
+    background: slateblue;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 0px;
+    border-radius: 10px;
+    text-align: center;
+}
+#bank-info{
+    margin-top: 40px;
+}
+.style-into{
+    margin: 0 20px;
+}
